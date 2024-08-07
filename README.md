@@ -1,5 +1,4 @@
-[![MasterHead](https://in.images.search.yahoo.com/search/images;_ylt=AwrKB0ZpnrNmNBgRDXS7HAx.;
-ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=animated+coding+image+gif&fr2=piv-web&type=E211IN826G0&fr=mcafee#id=6&iurl=https%3A%2F%2Fcodebulletin.github.io%2FMyPortfolio%2Fassets%2Fgif%2Fcoding.3272fa9c861c718b769a..gif&action=click)]
+C:\Users\DELL\OneDrive\Desktop\programmer.gif
 <h1 align="center">Hi 👋, I'm Lav Saxena</h1>
 <h3 align="center">I'm a B-Tech[IT] 2nd year student</h3>
 <img align="right" alt="coding" width="400" src="https://in.images.search.yahoo.com/search/images;_ylt=AwrKA2sRnLNmPDQR73C7HAx.;_ylu=Y29sbwNzZzMEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=animated+coding+image&fr2=piv-web&type=E211IN826G0&fr=mcafee#id=55&iurl=https%3A%2F%2Fprogramminginsider.com%2Fwp-content%2Fuploads%2F2023%2F08%2Fcoding.jpg&action=click"
