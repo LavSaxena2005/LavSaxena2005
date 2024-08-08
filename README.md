@@ -1,5 +1,8 @@
+![MasterHead](https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif)
 <h1 align="center">Hi 👋, I'm Lav Saxena</h1>
 <h3 align="center">I'm a B-Tech[IT] 2nd year student</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*mB6YLIGqIk1hTzU6Fb12zQ.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lavsaxena2005&label=Profile%20views&color=0e75b6&style=flat" alt="lavsaxena2005" /> </p>
 
@@ -22,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lavsaxena2005&show_icons=true&locale=en" alt="lavsaxena2005" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lavsaxena2005&" alt="lavsaxena2005" /></p>
+
