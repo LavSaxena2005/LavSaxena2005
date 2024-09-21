@@ -3,7 +3,7 @@
 <h3 align="center">I'm a B-Tech[IT] 2nd year student</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lavsaxena2005&label=Profile%20views&color=0e75b6&style=flat" alt="lavsaxena2005" /> </p>
 
-- 🌱 I’m currently learning **Java ,Web development**
+- 🌱 I’m currently learning **Java ,Web development,Python**
 
 - 📫 How to reach me **linkedinhttps://www.linkedin.com/in/lav-saxena-7995032b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app Email:saxenalav2005@gmail.com**
 
